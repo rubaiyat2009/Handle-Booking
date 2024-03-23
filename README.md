@@ -10,9 +10,7 @@ Installation Guide
 3.	Windows/Mac with Browser run -> yarn web
 4.	Mac with iPhone run -> yarn ios
 5.	Add CDN information of your database in config.js file.
-6.	Run the project and enjoy.
-7.	App build version available here: https://drive.google.com/file/d/17queJF00tSsckMuFBMDJ70bmrsOm7JP5/view?usp=drivesdk
-   
+6.	Run the project and enjoy.   
    
 ScreenShot
 
