@@ -1,0 +1,231 @@
+[
+  {
+    "firstname": "Mia",
+    "lastname": "Lopez",
+    "totalprice": 260,
+    "depositpaid": true,
+    "bookingdates": {
+      "checkin": "2025-04-01",
+      "checkout": "2025-04-10"
+    },
+    "additionalneeds": "City tour",
+    "userId": 102
+  },
+  {
+    "firstname": "Noah",
+    "lastname": "Gonzalez",
+    "totalprice": 200,
+    "depositpaid": false,
+    "bookingdates": {
+      "checkin": "2025-05-15",
+      "checkout": "2025-05-20"
+    },
+    "additionalneeds": "Late night check-in",
+    "userId": 102
+  },
+  {
+    "firstname": "Olivia",
+    "lastname": "Perez",
+    "totalprice": 380,
+    "depositpaid": true,
+    "bookingdates": {
+      "checkin": "2025-06-10",
+      "checkout": "2025-06-20"
+    },
+    "additionalneeds": "Business center access",
+    "userId": 102
+  },
+  {
+    "firstname": "Patrick",
+    "lastname": "Hernandez",
+    "totalprice": 270,
+    "depositpaid": true,
+    "bookingdates": {
+      "checkin": "2025-07-05",
+      "checkout": "2025-07-15"
+    },
+    "additionalneeds": "Concierge service",
+    "userId": 102
+  },
+  {
+    "firstname": "Quinn",
+    "lastname": "Flores",
+    "totalprice": 210,
+    "depositpaid": false,
+    "bookingdates": {
+      "checkin": "2025-08-20",
+      "checkout": "2025-08-25"
+    },
+    "additionalneeds": "Pool access",
+    "userId": 102
+  },
+  {
+    "firstname": "Jim",
+    "lastname": "Brown",
+    "totalprice": 111,
+    "depositpaid": true,
+    "bookingdates": {
+      "checkin": "2018-01-01",
+      "checkout": "2019-01-01"
+    },
+    "additionalneeds": "Breakfast",
+    "userId": 101
+  },
+  {
+    "firstname": "Alice",
+    "lastname": "Smith",
+    "totalprice": 200,
+    "depositpaid": true,
+    "bookingdates": {
+      "checkin": "2024-04-01",
+      "checkout": "2024-04-10"
+    },
+    "additionalneeds": "Vegetarian meal",
+    "userId": 101
+  },
+  {
+    "firstname": "Bob",
+    "lastname": "Johnson",
+    "totalprice": 150,
+    "depositpaid": false,
+    "bookingdates": {
+      "checkin": "2024-05-15",
+      "checkout": "2024-05-20"
+    },
+    "additionalneeds": "High floor room",
+    "userId": 101
+  },
+  {
+    "firstname": "Charlie",
+    "lastname": "Williams",
+    "totalprice": 300,
+    "depositpaid": true,
+    "bookingdates": {
+      "checkin": "2024-06-10",
+      "checkout": "2024-06-20"
+    },
+    "additionalneeds": "Airport shuttle",
+    "userId": 101
+  },
+  {
+    "firstname": "David",
+    "lastname": "Jones",
+    "totalprice": 180,
+    "depositpaid": true,
+    "bookingdates": {
+      "checkin": "2024-07-05",
+      "checkout": "2024-07-15"
+    },
+    "additionalneeds": "Early check-in",
+    "userId": 101
+  },
+  {
+    "firstname": "Emma",
+    "lastname": "Brown",
+    "totalprice": 250,
+    "depositpaid": false,
+    "bookingdates": {
+      "checkin": "2024-08-20",
+      "checkout": "2024-08-25"
+    },
+    "additionalneeds": "Late check-out",
+    "userId": 101
+  },
+  {
+    "firstname": "Frank",
+    "lastname": "Davis",
+    "totalprice": 280,
+    "depositpaid": true,
+    "bookingdates": {
+      "checkin": "2024-09-12",
+      "checkout": "2024-09-22"
+    },
+    "additionalneeds": "Extra towels",
+    "userId": 101
+  },
+  {
+    "firstname": "Grace",
+    "lastname": "Miller",
+    "totalprice": 220,
+    "depositpaid": true,
+    "bookingdates": {
+      "checkin": "2024-10-01",
+      "checkout": "2024-10-10"
+    },
+    "additionalneeds": "Baby crib",
+    "userId": 101
+  },
+  {
+    "firstname": "Henry",
+    "lastname": "Wilson",
+    "totalprice": 190,
+    "depositpaid": false,
+    "bookingdates": {
+      "checkin": "2024-11-15",
+      "checkout": "2024-11-20"
+    },
+    "additionalneeds": "Room with a view",
+    "userId": 101
+  },
+  {
+    "firstname": "Isabella",
+    "lastname": "Taylor",
+    "totalprice": 320,
+    "depositpaid": true,
+    "bookingdates": {
+      "checkin": "2024-12-10",
+      "checkout": "2024-12-20"
+    },
+    "additionalneeds": "Fitness center access",
+    "userId": 101
+  },
+  {
+    "firstname": "Jack",
+    "lastname": "Martinez",
+    "totalprice": 270,
+    "depositpaid": true,
+    "bookingdates": {
+      "checkin": "2025-01-05",
+      "checkout": "2025-01-15"
+    },
+    "additionalneeds": "Spa treatment",
+    "userId": 101
+  },
+  {
+    "firstname": "Katherine",
+    "lastname": "Anderson",
+    "totalprice": 230,
+    "depositpaid": false,
+    "bookingdates": {
+      "checkin": "2025-02-20",
+      "checkout": "2025-02-25"
+    },
+    "additionalneeds": "Complimentary breakfast",
+    "userId": 101
+  },
+  {
+    "firstname": "Liam",
+    "lastname": "Rodriguez",
+    "totalprice": 350,
+    "depositpaid": true,
+    "bookingdates": {
+      "checkin": "2025-03-12",
+      "checkout": "2025-03-22"
+    },
+    "additionalneeds": "Airport pickup",
+    "userId": 101
+  },
+
+  {
+    "firstname": "Ryan",
+    "lastname": "Ramirez",
+    "totalprice": 300,
+    "depositpaid": true,
+    "bookingdates": {
+      "checkin": "2025-09-12",
+      "checkout": "2025-09-22"
+    },
+    "additionalneeds": "Gym membership",
+    "userId": 102
+  }
+]
