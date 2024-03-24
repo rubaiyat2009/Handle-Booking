@@ -1,10 +1,12 @@
 # Handle-booking
 Handle-Bookings
 This is the app for handle bookings. Created with react native.
-Issues
-Did not use REST API as it was returning ids only while calling all bookings (https://restful-booker.herokuapp.com/booking). Then, quickly used mock data
+
 Installation Guide
+
 ---- Development Environment ----
+
+
 1.	run -> yarn start
 2.	Windows/Mac with Android run -> yarn android
 3.	Windows/Mac with Browser run -> yarn web
