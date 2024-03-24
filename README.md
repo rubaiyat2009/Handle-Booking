@@ -1,5 +1,5 @@
 # Handle-booking
-Handle-Bookings
+
 This is the app for handle bookings. Created with react native.
 
 Installation Guide
